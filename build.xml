@@ -5,7 +5,7 @@
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
 <property name="result.testclasses.dir" location="${result.dir}/testclasses"/>
-<property name="result.jar.file" location="./MyProduct.jar"/>
+
 
 <path id="NecessaryLibraries">
         <pathelement location="C:\eclipse\plugins\org.junit_4.12.0.v201504281640/junit.jar"/>
